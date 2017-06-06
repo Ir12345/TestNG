@@ -7,5 +7,6 @@ public class AppTest {
   @Test
   public void test() {
 	  Assert.assertEquals("abc","abc", "Error message");
+	  
   }
 }
